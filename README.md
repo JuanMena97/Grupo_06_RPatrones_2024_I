@@ -1,0 +1,1 @@
+# Grupo_06_RPatrones_2024_I
