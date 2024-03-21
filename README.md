@@ -20,3 +20,15 @@ Estudiante de 8vo ciclo de Ingeniería Biomédica, me interesa especializarme en
 <p align="center"> 
 <img src="https://i.postimg.cc/90t9n5z1/val.jpg"  width="150" height="200" align="center">
 </p>
+
+
+### Juan Mena Carrillo
+###### juan.mena@upch.pe
+Estudiante de Ingeniería Biomédica con interés en el área de Ingeniería Clínica y en el área de Señales e Imágenes Digitales. Los principales temas de mi interés dentro de la carrera son la electrónica enfocada a
+dispositivos biomédicos, software enfocado a aplicaciones médicas, gestión de dispositivos médicos y administración hospitalaria.
+Me gusta mucho aprender más sobre la Bioingeniería y las diferentes ramas que esta abarca. 
+
+<p align="center"> 
+<img src="https://media.licdn.com/dms/image/D4E03AQGFeqenKPYS6Q/profile-displayphoto-shrink_800_800/0/1670908083518?e=1716422400&v=beta&t=K1QtHCl0sDOVNJEb-B1AGtHK4QQrfAQ_E7i2G9zqdsc"  width="150" height="200" align="center">
+</p>
+
