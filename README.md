@@ -40,3 +40,9 @@ Estudiante de la carrera de Ingeniería Biomédica con interés en la concentrac
 <p align="center"> 
 <img src="https://i.postimg.cc/cH2tzQD6/perfil.jpg"  width="150" height="200" align="center">
 </p>
+
+## Proyecto de curso
+### Descripción del proyecto
+### Problemática
+### Objetivos
+### Operacionalización de la variable (target)
