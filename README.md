@@ -32,3 +32,11 @@ Me gusta mucho aprender más sobre la Bioingeniería y las diferentes ramas que 
 <img src="https://media.licdn.com/dms/image/D4E03AQGFeqenKPYS6Q/profile-displayphoto-shrink_800_800/0/1670908083518?e=1716422400&v=beta&t=K1QtHCl0sDOVNJEb-B1AGtHK4QQrfAQ_E7i2G9zqdsc"  width="150" height="200" align="center">
 </p>
 
+
+### Alessandra Aldave Javier
+###### alessandra.aldave@upch.pe
+Estudiante de la carrera de Ingeniería Biomédica con interés en la concentración de Ingeniería de Tejidos y Biomateriales y en el área de Señales e Imágenes Biomédicas, especialmente en el procesamiento y análisis de estas. Me apasiona aprender y ser capaz de implementar mi aprendizaje de machine learning junto con mi experiencia y conocimientos adquriridos a lo largo de la carrera para brindar soluciones significativas y que impacten en la salud de los peruanos.
+
+<p align="center"> 
+<img src="https://i.postimg.cc/cH2tzQD6/perfil.jpg"  width="150" height="200" align="center">
+</p>
